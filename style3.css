@@ -1,0 +1,74 @@
+body{
+  text-align: center;
+  background: url("https://a.wattpad.com/cover/110553830-288-k801557.jpg");
+  background-size: cover;
+  color: #e0fff9;
+  font-family: 'Garamond';
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(46, 9, 46);
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: purple;
+}
+
+.active {
+  background-color: purple;
+}
+
+h1{
+  text-transform: uppercase;
+  border: 3px purple double;
+  box-shadow: 6px 6px 6px purple;
+  text-shadow: 2px 2px 4px #4B0082; 
+}
+
+p{
+  text-shadow: 2px 2px 4px purple; 
+  text-align: center;
+}
+
+p1{
+  text-shadow: 2px 2px 4px black; 
+  text-align: center;
+}
+
+#IB{
+  height: 50%;
+  width: 70%;
+}
+
+#BBB{
+  height: 80%;
+  width: 80%;
+}
+
+#SI{
+  height: 60%;
+  width: 100%;
+}
+
+#NA{
+  height: 20%;
+  width: 50%;
+}
