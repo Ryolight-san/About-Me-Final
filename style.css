@@ -1,0 +1,133 @@
+body{
+  text-align: center;
+  background: url("https://a.wattpad.com/cover/110553830-288-k801557.jpg");
+  background-size: cover;
+  color: #e0fff9;
+  font-family: 'Garamond';
+}
+
+input{
+  border: 0;
+  padding: 5px;
+  font-size: 12px;
+}
+
+input[type="submit"]{
+  color: blue;
+  background:#03ffc4;
+}
+
+.logo{
+  height: 200px;
+  text-align: center;
+  border-radius: 50%;
+  width: 185px;
+  border-width: 4px;
+  border-color: purple;
+  border-style: double;
+}
+
+h1{
+  text-transform: uppercase;
+  border: 3px purple double;
+  box-shadow: 6px 6px 6px purple;
+  text-shadow: 2px 2px 4px #4B0082;
+}
+
+p{
+  text-shadow: 2px 2px 4px purple; 
+  text-align: center;
+}
+
+
+
+.nav{
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 10px;
+  border-width: 1px;
+  border-color: blueviolet;
+  border-style: double;
+}
+
+#message{
+  font-size: 20px;
+  color: rgb(224, 110, 110);
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(46, 9, 46);
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: purple;
+}
+
+.active {
+  background-color: purple;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: left;
+  text-decoration: none;
+  margin: 5px 2px;
+  
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  border-radius: 50%;
+  
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+  border-radius: 50%;
+  
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+  border-radius: 50%;
+  
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+  border-radius: 50%;
+  
+}
+
+
+   
+
